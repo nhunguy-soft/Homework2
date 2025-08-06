@@ -95,24 +95,24 @@ Tại Server
 
 MulticastSender.java
 ---
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/e7104e25-1f08-4e2c-81e3-73e8fd83f423" />
+<img width="750" alt="image" src="https://github.com/user-attachments/assets/e7104e25-1f08-4e2c-81e3-73e8fd83f423" />
 
 MulticastReceiver.java
 ---
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/e3b2dcfb-8b57-4104-9f77-60dec66e7ea1" />
+<img width="750" alt="image" src="https://github.com/user-attachments/assets/e3b2dcfb-8b57-4104-9f77-60dec66e7ea1" />
 
 Run MulticastSender.java
 ---
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/0efd51fb-9eda-4df1-aebc-e7ec464ec8ac" />
+<img width="750" alt="image" src="https://github.com/user-attachments/assets/0efd51fb-9eda-4df1-aebc-e7ec464ec8ac" />
 
 Run MulticastReceiver.java
 ---
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/6c269ad4-9392-4e12-b695-cbd5079f893d" />
+<img width="750" alt="image" src="https://github.com/user-attachments/assets/6c269ad4-9392-4e12-b695-cbd5079f893d" />
 
 --- 
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/f8bf3ba5-2f21-4a3a-b1ba-b8f7b5d5151f" />
+<img width="750" alt="image" src="https://github.com/user-attachments/assets/f8bf3ba5-2f21-4a3a-b1ba-b8f7b5d5151f" />
 
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/8836a932-b470-4daf-9106-bcfc3b05b287" />
+<img width="750" alt="image" src="https://github.com/user-attachments/assets/8836a932-b470-4daf-9106-bcfc3b05b287" />
 
 ---
 ## 🔗 Tài liệu tham khảo
