@@ -114,3 +114,7 @@ Run MulticastReceiver.java
 
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/8836a932-b470-4daf-9106-bcfc3b05b287" />
 
+---
+## 🔗 Tài liệu tham khảo
+
+- https://gpcoder.com/3679-xay-dung-ung-dung-client-server-voi-socket-trong-java/
